@@ -1,0 +1,28 @@
+name: MusicWithMrsZ
+favicon: null
+layout_spectrum: 0.09330193023197353
+typography_spectrum: 0.07322594174183905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.03207594691775739
+  lightness: 0.313904375070706
+  saturation: 0.6944966660812497
+  rhythmicContrast: 0.7144666947424412
+purpose: []
